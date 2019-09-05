@@ -1,4 +1,4 @@
-namespace core-board.API.Models 
+namespace CoreBoardAPI.Models
 {
     public class Server
     {

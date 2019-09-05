@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WebDotNetCore\\core-board.API\\core-board.API\\core-board.API.csproj": {}
+    "C:\\WebDotNetCore\\CoreBoardAPI\\CoreBoardAPI\\CoreBoardAPI.csproj": {}
   },
   "projects": {
-    "C:\\WebDotNetCore\\core-board.API\\core-board.API\\core-board.API.csproj": {
+    "C:\\WebDotNetCore\\CoreBoardAPI\\CoreBoardAPI\\CoreBoardAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WebDotNetCore\\core-board.API\\core-board.API\\core-board.API.csproj",
-        "projectName": "core-board.API",
-        "projectPath": "C:\\WebDotNetCore\\core-board.API\\core-board.API\\core-board.API.csproj",
+        "projectUniqueName": "C:\\WebDotNetCore\\CoreBoardAPI\\CoreBoardAPI\\CoreBoardAPI.csproj",
+        "projectName": "CoreBoardAPI",
+        "projectPath": "C:\\WebDotNetCore\\CoreBoardAPI\\CoreBoardAPI\\CoreBoardAPI.csproj",
         "packagesPath": "C:\\Users\\foluwatosin\\.nuget\\packages\\",
-        "outputPath": "C:\\WebDotNetCore\\core-board.API\\core-board.API\\obj\\",
+        "outputPath": "C:\\WebDotNetCore\\CoreBoardAPI\\CoreBoardAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
@@ -30,7 +30,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp2.2": {
             "projectReferences": {}
           }
         },
@@ -41,23 +41,31 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.1, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.2, )"
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.0, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
           },

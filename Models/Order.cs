@@ -1,4 +1,6 @@
-namespace core-board.API.Models
+using System;
+
+namespace CoreBoardAPI.Models
 {
     public class Order 
     {

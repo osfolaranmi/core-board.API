@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace core-board.API.Models
+namespace CoreBoardAPI.Models
 {
     public class ApiContext : DbContext
     {

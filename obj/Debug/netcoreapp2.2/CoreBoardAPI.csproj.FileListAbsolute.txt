@@ -1,0 +1,14 @@
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\bin\Debug\netcoreapp2.2\CoreBoardAPI.deps.json
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\bin\Debug\netcoreapp2.2\CoreBoardAPI.runtimeconfig.json
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\bin\Debug\netcoreapp2.2\CoreBoardAPI.runtimeconfig.dev.json
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\bin\Debug\netcoreapp2.2\CoreBoardAPI.dll
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\bin\Debug\netcoreapp2.2\CoreBoardAPI.pdb
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\obj\Debug\netcoreapp2.2\CoreBoardAPI.csprojAssemblyReference.cache
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\obj\Debug\netcoreapp2.2\CoreBoardAPI.csproj.CoreCompileInputs.cache
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\obj\Debug\netcoreapp2.2\CoreBoardAPI.RazorAssemblyInfo.cache
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\obj\Debug\netcoreapp2.2\CoreBoardAPI.RazorAssemblyInfo.cs
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\obj\Debug\netcoreapp2.2\CoreBoardAPI.AssemblyInfoInputs.cache
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\obj\Debug\netcoreapp2.2\CoreBoardAPI.AssemblyInfo.cs
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\obj\Debug\netcoreapp2.2\CoreBoardAPI.RazorTargetAssemblyInfo.cache
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\obj\Debug\netcoreapp2.2\CoreBoardAPI.dll
+C:\WebDotNetCore\CoreBoardAPI\CoreBoardAPI\obj\Debug\netcoreapp2.2\CoreBoardAPI.pdb
